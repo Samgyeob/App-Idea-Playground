@@ -1,40 +1,27 @@
-# Pocket Reset
+## Introducing Pocket Reset
 
-## Overview
-Pocket Reset is a lightweight Android app designed to help users take short, intentional breaks during long periods of study or work.  
-Instead of encouraging extended rest, the app focuses on quick “reset moments” (5–10 minutes) that improve focus and reduce mental fatigue.
+Pocket Reset is a simple Android app I’m building to encourage short, intentional breaks during long study or work sessions.
 
-## Problem
-Many students and professionals work for long hours without meaningful breaks.  
-While productivity techniques like Pomodoro exist, users often ignore break guidance or spend break time mindlessly scrolling on their phones.
+Instead of focusing on productivity pressure, the app emphasizes quick mental resets — just a few minutes to stretch, rest your eyes, or breathe before returning to work.
 
-## Target Users
-- College students
-- Remote workers
-- Anyone who studies or works in long sessions
+### Why I Built This App
+During long study sessions, I often noticed that I either skipped breaks entirely or spent them mindlessly scrolling on my phone. I wanted something minimal that reminds me to pause without becoming another distraction.
 
-## Core Features
-- Customizable focus and break timer (e.g., 25 min work / 5 min reset)
-- Simple visual countdown with minimal distractions
-- Randomized “reset suggestions” during breaks:
-  - Stretching
-  - Eye relaxation
-  - Breathing exercise
-  - Short motivational message
-- Daily focus time summary stored locally on the device
+### Current Features
+- 25-minute focus timer
+- 5-minute reset timer
+- Simple and distraction-free interface
 
-## Technical Focus
-- Android UI layout and navigation
-- Timer and background task handling
-- Local data storage (SQLite or Room)
-- Notification system for session reminders
+### What I’m Learning
+This project is helping me understand:
+- Android UI layout basics
+- Timer handling and app lifecycle
+- Structuring a small but complete mobile app
 
-## Future Improvements
-- User-defined reset activities
-- Dark mode optimization
-- Weekly focus statistics
-- Optional sound or vibration cues
+### What’s Next
+I plan to gradually improve Pocket Reset by adding:
+- Notifications
+- Custom time settings
+- Simple daily focus summaries
 
-## Status
-Concept and planning stage.  
-This project is intended as my first fully published Android app.
+This app represents my first step toward building and publishing practical Android applications.
